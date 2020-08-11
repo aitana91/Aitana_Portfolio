@@ -1,6 +1,17 @@
 # Aitana_Portfolio
 Portfolio with projects I've been working on. All of them are written in Python.
 
+## [Madrid Airbnb's dataset (Under construction)](../master/Airbnb)
+As a final project of a master I did, I worked on an Airbnb dataset with information about reviews, locations, amenities and host’s descriptions in Madrid, where I was able to apply many tools I learned in that master.
+
+In this project there were 3 main goals:
+
+- Predict the price of a new airbnb apartment/room based on the amenities, description of the apartment/room and the location, providing as an additional information the prediction of the mean price in the neighborhood in the next 12 months.
+
+- Classify the reviews with NLP and analyze and visualize the negative ones per neighborhood in order to detect issues and conflictive areas inside Madrid.
+
+- Provide the guest information about public transport and points of interest near the selected apartment.
+
 ## [Richter's Predictor: Modeling Earthquake Damage](../master/Earthquakes)
 Based on aspects of building location and construction, the goal is to predict the level of damage to buildings caused by the 2015 Gorkha earthquake in Nepal.
 
