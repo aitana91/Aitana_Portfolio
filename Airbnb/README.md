@@ -23,7 +23,7 @@ After that the price's evolution is predicted using Prophet.
 5) [Price's recommendation and visualization](https://github.com/aitana91/Aitana_Portfolio/blob/master/Airbnb/price_recom.ipynb): in this notebook the recommended price of an apartment or room based on its characteristics is predicted. The visual solution is provided using a [heat map](https://github.com/aitana91/Aitana_Portfolio/blob/master/Airbnb/images/heat_map.PNG).
 6) [Sentiment analysis of the reviews]: the reviews are provided in a dataset with no classification (positive/negative or a punctuation). Therefore, a sentiment analysis is needed to perform this classification. After that, some Wordclouds are created.
 7) [Negative reviews visualization]: two different visualizations are performed in Plotly:
-    - the negative reviews are grouped based on the issue and are visualize in a heat map. That way we can see if there are conflictive areas inside Madrid for each issue.
-    - the location of the negative reviews are plotted by neighbourhood. That way we can see if there are conflictive areas inside each neighbourhood.
+    - the negative reviews are grouped based on the issue and are visualize in a [heat map](https://github.com/aitana91/Aitana_Portfolio/blob/master/Airbnb/images/neg-topics.png). That way we can see if there are conflictive areas inside Madrid for each issue.
+    - the location of the negative reviews are plotted by [neighbourhood](https://github.com/aitana91/Aitana_Portfolio/blob/master/Airbnb/images/neg-neig.png). That way we can see if there are conflictive areas inside each neighbourhood.
 
 
