@@ -21,10 +21,9 @@ The proper order of these files is:
 After that the price's evolution is predicted using Prophet.
 4) [NLP in descriptions](https://github.com/aitana91/Aitana_Portfolio/blob/master/Airbnb/nlp_descriptions.ipynb): the description column might be important when predicting the price, so I decided to apply NLP on the description column in order to use the BoW later.
 5) [Price's recommendation and visualization](https://github.com/aitana91/Aitana_Portfolio/blob/master/Airbnb/price_recom.ipynb): in this notebook the recommended price of an apartment or room based on its characteristics is predicted. The visual solution is provided using a [heat map](https://github.com/aitana91/Aitana_Portfolio/blob/master/Airbnb/images/heat_map.PNG).
-6) [Sentiment analysis of the reviews and visualization]: the reviews are provided in a dataset with no classification (positive/negative or a punctuation). Therefore, a sentiment analysis is needed to perform this classification. After that, three different visualizations are performed:
+6) [Sentiment analysis of the reviews]: the reviews are provided in a dataset with no classification (positive/negative or a punctuation). Therefore, a sentiment analysis is needed to perform this classification. After that, some Wordclouds are created.
+7) [Negative reviews visualization]: two different visualizations are performed in Plotly:
     - the negative reviews are grouped based on the issue and are visualize in a heat map. That way we can see if there are conflictive areas inside Madrid for each issue.
     - the location of the negative reviews are plotted by neighbourhood. That way we can see if there are conflictive areas inside each neighbourhood.
-    - Wordclouds per neighbourhood for the positive and the negative reviews.
-
 
 
