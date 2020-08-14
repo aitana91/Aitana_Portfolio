@@ -22,5 +22,3 @@ After that the price's evolution is predicted using Prophet.
 4) [NLP in descriptions](https://github.com/aitana91/Aitana_Portfolio/blob/master/Airbnb/nlp_descriptions.ipynb): the description column might be important when predicting the price, so I decided to apply NLP on the description column in order to use the BoW later.
 5) [Price's recommendation and visualization](https://github.com/aitana91/Aitana_Portfolio/blob/master/Airbnb/price_recom.ipynb): in this notebook the recommended price of an apartment or room based on its characteristics is predicted. We provide the visual solution using a [heat map](https://raw.githubusercontent.com/aitana91/Aitana_Portfolio/Airbnb/recomendador_final_calor.html)
 
-
-
