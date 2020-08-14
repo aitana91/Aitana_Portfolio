@@ -16,11 +16,11 @@ I splited the whole project into different files in order to have access to them
 The proper order of these files is:
 
 1) [Dataset's creation](https://github.com/aitana91/Aitana_Portfolio/blob/master/Airbnb/dataset_creation.ipynb): analysis of the features, feature engineering and data cleaning.
-2) [Amenities' selection](https://github.com/aitana91/Aitana_Portfolio/blob/master/Airbnb/amenities_selection.ipynb): deep analysis of one of the columns in the dataset, that contains the amenities in each apartment/room. In this notebook we define the significant amenities we should work with.
-3) [Historical dataset's creation](https://github.com/aitana91/Aitana_Portfolio/blob/master/Airbnb/historical_data.ipynb): to predict the price's evolution per Neighbourhood we need a dataset with the historical prices of the apartments and rooms in the original dataset. To create it, we scrapped all the csv files available in the airbnb's website and we merged all of them into one table.
-After that we predict the price's evolution using Prophet.
+2) [Amenities' selection](https://github.com/aitana91/Aitana_Portfolio/blob/master/Airbnb/amenities_selection.ipynb): deep analysis of one of the columns in the dataset, that contains the amenities in each apartment/room. In this notebook the significant amenities we should work with are defined.
+3) [Historical dataset's creation](https://github.com/aitana91/Aitana_Portfolio/blob/master/Airbnb/historical_data.ipynb): to predict the price's evolution per Neighbourhood a dataset with the historical prices of the apartments and rooms in the original dataset is needed. To create it, I scrapped all the csv files available in the airbnb's website and  merged all of them into one table.
+After that the price's evolution is predicted using Prophet.
 4) [NLP in descriptions](https://github.com/aitana91/Aitana_Portfolio/blob/master/Airbnb/nlp_descriptions.ipynb): the description column might be important when predicting the price, so I decided to apply NLP on the description column in order to use the BoW later.
-5) [Price's recommendation and visualization](https://github.com/aitana91/Aitana_Portfolio/blob/master/Airbnb/price_recom.ipynb): in this notebook we provide the recommended price of an apartment or room based on its characteristics. We provide the visual solution using a heat map.
+5) [Price's recommendation and visualization](https://github.com/aitana91/Aitana_Portfolio/blob/master/Airbnb/price_recom.ipynb): in this notebook the recommended price of an apartment or room based on its characteristics is predicted. We provide the visual solution using a heat map.
 
 
 
