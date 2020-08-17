@@ -12,7 +12,7 @@ In this project there were 3 main goals:
 
 - Provide the guest information about public transport and points of interest near the selected apartment.
 
-## [Movies Recommendation's System](../master/movies)
+## [Movies Recommendation's System](../master/Movies)
 Development of a basic recommendation system using Python and Pandas. 
 
 In this case the recommendation is based on the movies that the user has watched. We will use the cosine similarity to find the most similar users and we will recommend the user the most watched movies among these similar users.
