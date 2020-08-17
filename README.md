@@ -2,7 +2,7 @@
 Portfolio with projects I've been working on. All of them are written in Python.
 
 ## [Madrid Airbnb's dataset (Under construction)](../master/Airbnb)
-As a final project of a master I did, I worked on an Airbnb dataset with information about reviews, locations, amenities and host’s descriptions in Madrid, where I was able to apply many tools I learned in that master.
+As a final project of a master I did, I worked on an Airbnb dataset with information about reviews, locations, amenities and host’s descriptions in Madrid, where I was able to apply many tools learned in that master.
 
 In this project there were 3 main goals:
 
@@ -11,6 +11,10 @@ In this project there were 3 main goals:
 - Classify the reviews with NLP and analyze and visualize the negative ones per neighborhood in order to detect issues and conflictive areas inside Madrid.
 
 - Provide the guest information about public transport and points of interest near the selected apartment.
+
+## [Movie Recommendation's System](../master/movies)
+Development of a basic recommendation system using Python and Pandas. 
+In this case the recommendation is based on the movies that the user has watched. We will use the cosine simmilarity to find the most similar users and we will recommend the user the most watched movies among these similar users.
 
 ## [Richter's Predictor: Modeling Earthquake Damage](../master/Earthquakes)
 Based on aspects of building location and construction, the goal is to predict the level of damage to buildings caused by the 2015 Gorkha earthquake in Nepal.
