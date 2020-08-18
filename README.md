@@ -17,8 +17,8 @@ Development of a basic recommendation system using Python and Pandas.
 
 In this case the recommendation is based on the movies that the user has watched. We will use the cosine similarity to find the most similar users and we will recommend the user the movies based on:
 
-- the most watched movies among these similar users
-- the best rated movies among these similar users
+- [the most watched movies among these similar users](../master/Movies/movie_recommender.ipynb)
+- [the best rated movies among these similar users](../master/Movies/movie_recommender_score.ipynb)
 
 ## [Richter's Predictor: Modeling Earthquake Damage](../master/Earthquakes)
 Based on aspects of building location and construction, the goal is to predict the level of damage to buildings caused by the 2015 Gorkha earthquake in Nepal.
