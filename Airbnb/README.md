@@ -12,7 +12,7 @@ In this project there were 3 main goals:
 - Provide the guest information about public transport and points of interest near the selected apartment.
 
 ### Notebooks
-I splited the whole project into different files in order to have access to them more easily.
+I splitted the whole project into different files in order to have access to them more easily.
 The proper order of these files is:
 
 1) [Dataset's creation](https://github.com/aitana91/Aitana_Portfolio/blob/master/Airbnb/dataset_creation.ipynb): analysis of the features, feature engineering and data cleaning.
@@ -25,5 +25,5 @@ After that the price's evolution is predicted using Prophet.
 7) [Negative reviews visualization](https://github.com/aitana91/Aitana_Portfolio/blob/master/Airbnb/neg_reviews_plotly): two different visualizations are performed in Plotly:
     - the negative reviews are grouped based on the issue and are visualize in a [heat map](https://github.com/aitana91/Aitana_Portfolio/blob/master/Airbnb/images/neg-topics.png). That way we can see if there are conflictive areas inside Madrid for each issue.
     - the location of the negative reviews are plotted by [neighbourhood](https://github.com/aitana91/Aitana_Portfolio/blob/master/Airbnb/images/neg-neig.png). That way we can see if there are conflictive areas inside each neighbourhood.
-
+8) [Public transport and points of interest]: scraping and visualization of public transport options and points of interest in Madrid close to the apartment booked.
 
