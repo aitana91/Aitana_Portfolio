@@ -1,4 +1,4 @@
-## [Madrid Airbnb's dataset (Under construction)](../master/Airbnb)
+## [Madrid Airbnb's dataset](../master/Airbnb)
 
 ### Introduction
 As explained, I worked on an Airbnb dataset with information about reviews, locations, amenities and host’s descriptions in Madrid, where I was able to apply many tools I learned in that master.
