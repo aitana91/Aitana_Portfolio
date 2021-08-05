@@ -1,7 +1,7 @@
 # Aitana_Portfolio
 Portfolio with projects I've been working on. All of them are written in Python.
 
-## [Madrid Airbnb's dataset (Under construction)](../master/Airbnb)
+## [Madrid Airbnb's dataset](../master/Airbnb)
 As a final project of a master I did, I worked on an Airbnb dataset with information about reviews, locations, amenities and host’s descriptions in Madrid, where I was able to apply many tools learned in that master.
 
 In this project there were 3 main goals:
